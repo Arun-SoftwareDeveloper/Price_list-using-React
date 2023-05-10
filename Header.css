@@ -1,0 +1,9 @@
+.header{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+    font-family:cursive;
+    font-size: 30px;
+}
